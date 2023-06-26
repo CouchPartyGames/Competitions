@@ -4,6 +4,17 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>UniqueID</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>CouchPartyGames</Authors>
+    <Company>CouchPartyGames</Company>
+    <Product>Product Name</Product>
+
+    <PackageTags>Competitions; Tournaments; Standings; Round Robins;</PackageTags>
+    <Description>
+      This client library allows your to create Tournaments, Standings and Round Robins;
+    </Description>
   </PropertyGroup>
 
 </Project>
